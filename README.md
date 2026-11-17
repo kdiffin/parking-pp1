@@ -2,6 +2,9 @@ hi
 
 I will overengineer this project :b
 
+**architecture**
+![architecture](./architecture.png)
+
 ## devlog
 
 ## pre-dev

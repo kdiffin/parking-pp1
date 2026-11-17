@@ -5,3 +5,4 @@ dev:
 
 clean:
 	rm -rf bin/*
+
