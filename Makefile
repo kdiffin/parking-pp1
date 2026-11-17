@@ -1,3 +1,5 @@
+.PHONY: dev clean
+
 dev:
 	mkdir -p bin/ && gcc -o bin/parking main.c && ./bin/parking
 
