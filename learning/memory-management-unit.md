@@ -1,0 +1,1 @@
+research on this component of a computer's CPU was inspired by reading [this blog post](https://gabrieletolomei.wordpress.com/miscellanea/operating-systems/virtual-memory-paging-and-swapping/) and realizing that I have no understanding of an MMU.
