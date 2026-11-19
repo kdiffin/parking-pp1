@@ -3,7 +3,6 @@ hi
 I will overengineer this project :b
 
 **architecture**
-![architecture](./architecture.png)
 <p align="center">
   <img src="./architecture.png" width="400" alt="Description">
 </p>
