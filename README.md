@@ -2,8 +2,8 @@ hi
 
 I will overengineer this project :b
 
-**architecture**
 <p align="center">
+architecture
   <img src="./architecture.png" width="400" alt="Description">
 </p>
 
