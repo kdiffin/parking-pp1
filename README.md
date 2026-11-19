@@ -3,7 +3,9 @@ hi
 I will overengineer this project :b
 
 <p align="center">
-architecture
+architecture (proposed for now)
+</p>
+<p align="center">
   <img src="./architecture.png" width="400" alt="Description">
 </p>
 
